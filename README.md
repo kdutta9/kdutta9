@@ -2,7 +2,7 @@
 
 I'm a undergraduate student at UC Berkeley studying computer science!
 
-I love building projects, particularly those that involve computer vision, robotics, and general full-stack engineering.
+I love building projects, particularly those that involve computer vision, robotics, and general full-stack software engineering.
 
 My favorite projects:
 
