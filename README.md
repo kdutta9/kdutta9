@@ -1,6 +1,6 @@
 **Hi, I'm Kunal!** 
 
-I'm a undergraduate student at UC Berkeley studying computer science!
+I'm a undergraduate student at UC Berkeley studying computer science. My GitHub profile mainly show my personal projects, along with some coursework, team projects for organizations I am a part of, and educational resources. I am passionate about programming and education, and I hope you enjoy looking at my profile.
 
 I love building projects, particularly those that involve computer vision, robotics, and general full-stack software engineering.
 
