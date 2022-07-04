@@ -10,4 +10,4 @@ My favorite projects:
 - [Shot Tracker](https://github.com/kdutta9/ShotTracker): A mobile app that can track a user's basketball shots.
 - [Privacy Guard](https://github.com/kdutta9/PrivacyGuard): A mobile app and browser extension that detects the opening of a user's door, and then closes the user's incognito tabs.
 
-[Check out my resume!](https://kdutta9.github.io/docs/resume.pdf)
+[Check out my resume!](https://kdutta9.github.io/assets/docs/resume.pdf)
